@@ -11,6 +11,7 @@ namespace test_za_git
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Here we go again.");
+            Console.WriteLine("Druga promjena");
         }
     }
 }
