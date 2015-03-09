@@ -9,6 +9,7 @@ namespace test_za_git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
